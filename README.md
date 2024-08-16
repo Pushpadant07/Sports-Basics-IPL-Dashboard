@@ -6,8 +6,13 @@
 
 [Intractive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjdmODcwNzMtMjUxMC00ZDBmLWI4MjUtNDlkMzFhNTJkMGUzIiwidCI6IjBiYTEzZTFjLTU1ODMtNGRhZi1hYzk2LTQ2NzYwNDBlM2NiMSJ9)
 
+## 🛠️Tools Used:
 
-### ✨Primary Insights:
+1. PowerBi Desktop
+2. Excel
+3. DAX language
+
+### Primary Insights:
 
 1. Top 10 batsmen based on total runs scored in the last 3 years.
 2. Top 10 batsmen based on batting average in the last 3 years (min 60 balls faced in each season).
@@ -19,3 +24,12 @@
 8. Top 5 bowlers based on dot ball percentage in the last 3 years
 9. Top 4 teams based on winning percentage in the last 3 years.
 10. Top 2 teams with the highest number of wins achieved by chasing targets over the last 3 years.
+
+
+### Secondary Insights:
+
+1. Prediction for Orange and Purple Cap players in the 2024 season.</br>
+2. Prediction of the top 4 qualifying teams for 2024.</br>
+3. Prediction of the winner and runner-up for 2024.</br>
+4. Selection of the Best 11 players for your team based on positions, 3 years' performance data, and additional research.</br>
+5. Selection of the top 3 all-rounders for your team.</br>
